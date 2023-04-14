@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @thenileshmishra
 - 👀 I’m interested in Competitive Coding.
-- 🌱 I’m currently learning Algorithm.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning MERN STACK.
+- 💞️ I’m looking to collaborate on React Js.
 
 <!---
 thenileshmishra/thenileshmishra is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
