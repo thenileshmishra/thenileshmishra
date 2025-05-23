@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently pursuing my M.Tech in Computer Science from NIT Calicut.  <br>👯 I’m looking to collaborate on projects involving React.js.  <br>🌱 I’m currently learning Machine Learning and Artificial Intelligence.  <br>💬 Ask me about C++, algorithms, system design, or academic research in AI.  <br>⚡ Fun fact: I enjoy exploring classical literature, and I'm learning French in my free time.<br>
+🔭 I’m currently pursuing my M.Tech in Computer Science from NIT Calicut.  <br>👯 I’m looking to collaborate on projects involving React.js.  <br>🌱 I’m currently learning Machine Learning and Artificial Intelligence.  <br>💬 Ask me about C++, algorithms, system design, machine learning, or academic research in AI.  <br>⚡ Fun fact: I enjoy exploring classical literature, and I'm learning French in my free time.<br>
 
 
 # 💻 Tech Stack:
